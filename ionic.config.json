@@ -1,0 +1,7 @@
+{
+  "name": "hijack-resolver",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
